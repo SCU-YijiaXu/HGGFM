@@ -18,7 +18,7 @@ The official implementation of paper "Hacker Group Identification based on Multi
 
 ## Setup
 
-1. Prepare the virtual environment, and recommend Python version ≥ `3.10`. After the virtual environment is successfully built, you need to install the `dgl` first (choose the appropriate version [[here](https://www.dgl.ai/pages/start.html)]). Then use the command line to install the dependencies:
+1. Prepare the virtual environment, and recommend Python version ≥ `3.10`. After the virtual environment is successfully built, you need to install the `dgl` first (choose the appropriate version [here(https://www.dgl.ai/pages/start.html)]). Then use the command line to install the dependencies:
 ```bash
 (Example) pip install dgl -f https://data.dgl.ai/wheels/torch-2.4/cu124/repo.html
 pip install -r requirements.txt
